@@ -1,0 +1,8 @@
+Flask==3.0.3
+gunicorn==22.0.0
+Werkzeug==3.0.6
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.0
+cupy-cuda12x==13.0.0
+autopep8==2.1.0

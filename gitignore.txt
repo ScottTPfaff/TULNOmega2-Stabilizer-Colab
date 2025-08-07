@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Simulation outputs
+checkpoints/
+*.jsonl
+*.chkpt
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
